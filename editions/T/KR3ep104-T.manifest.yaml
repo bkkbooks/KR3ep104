@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ep104/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ep104/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 湖岳村叟醫案
+  identifiers:
+    krp: KR3ep104
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep104.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ep104_001-T.yaml, hash: 'sha256:59c82ffbb7e63617226c0e5776fedb17e385a66bb5c001d40867e62f4a389d62'}
+table_of_contents: []
+hash: sha256:712f2385c5434074cdb408b699598033bdecf7b68fa1ffd3cf15cbc315bdb93a
