@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep104/v1
 canonical_location: https://kanripo.org/bkk/KR3ep104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 湖岳村叟醫案
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3ep104_001.yaml
     hash: sha256:59c82ffbb7e63617226c0e5776fedb17e385a66bb5c001d40867e62f4a389d62
 table_of_contents: []
-hash: sha256:f3a12ae6b33dfcd265fb00ae7ce79268d473511016e168d2499910cc0b66dfd9
+hash: sha256:e06b1660cfbcded2c15577f79477f0bd1afa5cc0c29cd4d677ff939c406bf312
